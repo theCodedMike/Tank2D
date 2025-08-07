@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'TANK_mesh_0022.obj'
+
+# Vertices (Count = 4)
+v -160 -288 0
+v -192 -288 0
+v -192 -256 0
+v -160 -256 0
+
+# Texture cooridinates (Count = 4)
+vt 0 0
+vt 0.1428571 0
+vt 0.1428571 1
+vt 0 1
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g TANK_mesh_0022
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+

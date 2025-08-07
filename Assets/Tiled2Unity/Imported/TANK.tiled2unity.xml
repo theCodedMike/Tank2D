@@ -1,0 +1,890 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 2017/8/9 10:20:43-->
+<Tiled2Unity version="1.0.12.3">
+  <AssignMaterial mesh="TANK_mesh_0001" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0002" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0003" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0004" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0005" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0006" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0007" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0008" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0009" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0010" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0011" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0012" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0013" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0014" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0015" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0016" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0017" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0018" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0019" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0020" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0021" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0022" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0023" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0024" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0025" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0026" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0027" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0028" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0029" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0030" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0031" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0032" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0033" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0034" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0035" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0036" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0037" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0038" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0039" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0040" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0041" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0042" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0043" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0044" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0045" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0046" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0047" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0048" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0049" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0050" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0051" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0052" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0053" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0054" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0055" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0056" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0057" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0058" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0059" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0060" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0061" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0062" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0063" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0064" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0065" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0066" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0067" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0068" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0069" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0070" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0071" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0072" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0073" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0074" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0075" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0076" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0077" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0078" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <AssignMaterial mesh="TANK_mesh_0079" material="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" />
+  <Prefab name="TANK" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="79" numTilesWide="15" numTilesHigh="15" tileWidth="32" tileHeight="32" exportScale="1" mapWidthInPixels="480" mapHeightInPixels="480" backgroundColor="#808080">
+    <GameObject name="砖块" x="0" y="0" z="0">
+      <GroupLayer offsetX="0" offsetY="0" />
+      <GameObject name="b62" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>257,-254 224,-254 224,-289 257,-289</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b61" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0002" sortingLayerName="" sortingOrder="1" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>257,-222 224,-222 224,-257 257,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b60" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0003" sortingLayerName="" sortingOrder="2" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>257,-190 224,-190 224,-225 257,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b59" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0004" sortingLayerName="" sortingOrder="3" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>257,-158 224,-158 224,-193 257,-193</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b58" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0005" sortingLayerName="" sortingOrder="4" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>257,-126 224,-126 224,-161 257,-161</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b57" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0006" sortingLayerName="" sortingOrder="5" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-94 288,-94 288,-129 321,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b56" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0007" sortingLayerName="" sortingOrder="6" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-62 288,-62 288,-97 321,-97</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b55" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0008" sortingLayerName="" sortingOrder="7" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-126 288,-126 288,-161 321,-161</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b54" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0009" sortingLayerName="" sortingOrder="8" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-158 288,-158 288,-193 321,-193</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b53" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0010" sortingLayerName="" sortingOrder="9" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-190 288,-190 288,-225 321,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b52" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0011" sortingLayerName="" sortingOrder="10" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-222 288,-222 288,-257 321,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b51" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0012" sortingLayerName="" sortingOrder="11" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-254 288,-254 288,-289 321,-289</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b50" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0013" sortingLayerName="" sortingOrder="12" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>289,-286 256,-286 256,-321 289,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b49" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0014" sortingLayerName="" sortingOrder="13" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-286 288,-286 288,-321 321,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b48" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0015" sortingLayerName="" sortingOrder="14" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>321,-318 288,-318 288,-353 321,-353</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b47" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0016" sortingLayerName="" sortingOrder="15" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-62 160,-62 160,-97 193,-97</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b46" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0017" sortingLayerName="" sortingOrder="16" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-94 160,-94 160,-129 193,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b45" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0018" sortingLayerName="" sortingOrder="17" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-126 160,-126 160,-161 193,-161</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b44" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0019" sortingLayerName="" sortingOrder="18" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-158 160,-158 160,-193 193,-193</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b43" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0020" sortingLayerName="" sortingOrder="19" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-190 160,-190 160,-225 193,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b42" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0021" sortingLayerName="" sortingOrder="20" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-222 160,-222 160,-257 193,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b41" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0022" sortingLayerName="" sortingOrder="21" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-254 160,-254 160,-289 193,-289</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b40" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0023" sortingLayerName="" sortingOrder="22" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>225,-286 192,-286 192,-321 225,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b39" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0024" sortingLayerName="" sortingOrder="23" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-286 160,-286 160,-321 193,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b38" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0025" sortingLayerName="" sortingOrder="24" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>193,-318 160,-318 160,-353 193,-353</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b37" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0026" sortingLayerName="" sortingOrder="25" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-30 384,-30 384,-65 417,-65</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b36" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0027" sortingLayerName="" sortingOrder="26" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-62 384,-62 384,-97 417,-97</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b35" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0028" sortingLayerName="" sortingOrder="27" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>449,-94 416,-94 416,-129 449,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b34" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0029" sortingLayerName="" sortingOrder="28" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>385,-94 352,-94 352,-129 385,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b33" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0030" sortingLayerName="" sortingOrder="29" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-94 384,-94 384,-129 417,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b32" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0031" sortingLayerName="" sortingOrder="30" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-126 384,-126 384,-161 417,-161</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b31" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0032" sortingLayerName="" sortingOrder="31" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-158 384,-158 384,-193 417,-193</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b30" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0033" sortingLayerName="" sortingOrder="32" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-190 384,-190 384,-225 417,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b29" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0034" sortingLayerName="" sortingOrder="33" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-222 384,-222 384,-257 417,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b28" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0035" sortingLayerName="" sortingOrder="34" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-254 384,-254 384,-289 417,-289</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b27" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0036" sortingLayerName="" sortingOrder="35" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>385,-286 352,-286 352,-321 385,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b26" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0037" sortingLayerName="" sortingOrder="36" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-286 384,-286 384,-321 417,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b25" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0038" sortingLayerName="" sortingOrder="37" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-318 384,-318 384,-353 417,-353</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b24" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0039" sortingLayerName="" sortingOrder="38" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-350 384,-350 384,-385 417,-385</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b23" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0040" sortingLayerName="" sortingOrder="39" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>417,-382 384,-382 384,-417 417,-417</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b22" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0041" sortingLayerName="" sortingOrder="40" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-30 64,-30 64,-65 97,-65</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b21" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0042" sortingLayerName="" sortingOrder="41" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-62 64,-62 64,-97 97,-97</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b20" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0043" sortingLayerName="" sortingOrder="42" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>129,-94 96,-94 96,-129 129,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b19" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0044" sortingLayerName="" sortingOrder="43" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>65,-94 32,-94 32,-129 65,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b18" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0045" sortingLayerName="" sortingOrder="44" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-94 64,-94 64,-129 97,-129</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b17" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0046" sortingLayerName="" sortingOrder="45" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-126 64,-126 64,-161 97,-161</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b16" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0047" sortingLayerName="" sortingOrder="46" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-158 64,-158 64,-193 97,-193</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b15" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0048" sortingLayerName="" sortingOrder="47" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-190 64,-190 64,-225 97,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b14" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0049" sortingLayerName="" sortingOrder="48" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-222 64,-222 64,-257 97,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b13" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0050" sortingLayerName="" sortingOrder="49" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-254 64,-254 64,-289 97,-289</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b12" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0051" sortingLayerName="" sortingOrder="50" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>129,-286 96,-286 96,-321 129,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b11" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0052" sortingLayerName="" sortingOrder="51" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-286 64,-286 64,-321 97,-321</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b10" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0053" sortingLayerName="" sortingOrder="52" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-318 64,-318 64,-353 97,-353</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b9" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0054" sortingLayerName="" sortingOrder="53" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-350 64,-350 64,-385 97,-385</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b8" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0055" sortingLayerName="" sortingOrder="54" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>97,-382 64,-382 64,-417 97,-417</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b7" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0056" sortingLayerName="" sortingOrder="55" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>481,-414 448,-414 448,-449 481,-449</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b6" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0057" sortingLayerName="" sortingOrder="56" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>33,-414 0,-414 0,-449 33,-449</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b5" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0058" sortingLayerName="" sortingOrder="57" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>289,-446 256,-446 256,-481 289,-481</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b4" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0059" sortingLayerName="" sortingOrder="58" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>289,-414 256,-414 256,-449 289,-449</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b3" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0060" sortingLayerName="" sortingOrder="59" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>257,-414 224,-414 224,-449 257,-449</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b2" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0061" sortingLayerName="" sortingOrder="60" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>225,-414 192,-414 192,-449 225,-449</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="b1" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0062" sortingLayerName="" sortingOrder="61" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>225,-446 192,-446 192,-481 225,-481</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="铁墙" x="0" y="0" z="0">
+      <GroupLayer offsetX="0" offsetY="0" />
+      <GameObject name="wall" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0063" sortingLayerName="" sortingOrder="62" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>33,-193 -1,-193 -1,-224 33,-224</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="wall2" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0064" sortingLayerName="" sortingOrder="63" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>33,-225 -1,-225 -1,-256 33,-256</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="wall3" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0065" sortingLayerName="" sortingOrder="64" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>481,-193 447,-193 447,-224 481,-224</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="wall4" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0066" sortingLayerName="" sortingOrder="65" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>481,-225 447,-225 447,-256 481,-256</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="wall5" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0067" sortingLayerName="" sortingOrder="66" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>33,-353 -1,-353 -1,-384 33,-384</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="wall6" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0068" sortingLayerName="" sortingOrder="67" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>481,-353 447,-353 447,-384 481,-384</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="海" x="0" y="0" z="0">
+      <GroupLayer offsetX="0" offsetY="0" />
+      <GameObject name="sea1" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0069" sortingLayerName="" sortingOrder="68" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>129,-190 95,-190 95,-225 129,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="sea2" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0070" sortingLayerName="" sortingOrder="69" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>161,-190 127,-190 127,-225 161,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="sea3" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0071" sortingLayerName="" sortingOrder="70" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>353,-190 319,-190 319,-225 353,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="sea4" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0072" sortingLayerName="" sortingOrder="71" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>385,-190 351,-190 351,-225 385,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="丛林" x="0" y="0" z="0">
+      <GroupLayer offsetX="0" offsetY="0" />
+      <GameObject name="forest1" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0073" sortingLayerName="" sortingOrder="72" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>64,-224 31,-224 31,-257 64,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="forest2" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0074" sortingLayerName="" sortingOrder="73" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>64,-192 31,-192 31,-225 64,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="forest3" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0075" sortingLayerName="" sortingOrder="74" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>448,-192 415,-192 415,-225 448,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="f4" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0076" sortingLayerName="" sortingOrder="75" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>448,-224 415,-224 415,-257 448,-257</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="f5" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0077" sortingLayerName="" sortingOrder="76" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>224,-192 191,-192 191,-225 224,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+      <GameObject name="f6" x="0" y="0" z="0">
+        <TileLayer offsetX="0" offsetY="0" />
+        <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0078" sortingLayerName="" sortingOrder="77" opacity="1" />
+        <GameObject name="Collision">
+          <PolygonCollider2D>
+            <Path>288,-192 255,-192 255,-225 288,-225</Path>
+          </PolygonCollider2D>
+        </GameObject>
+      </GameObject>
+    </GameObject>
+    <GameObject name="basement" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com" mesh="TANK_mesh_0079" sortingLayerName="" sortingOrder="78" opacity="1" />
+      <GameObject name="Collision">
+        <PolygonCollider2D>
+          <Path>258,-447 222,-447 222,-481 258,-481</Path>
+        </PolygonCollider2D>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="TANK_mesh_0001.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDAxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC0yODggMA0KdiAtMjU2IC0yODggMA0KdiAtMjU2IC0yNTYgMA0KdiAtMjI0IC0yNTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDAxDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0002.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDAyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC0yNTYgMA0KdiAtMjU2IC0yNTYgMA0KdiAtMjU2IC0yMjQgMA0KdiAtMjI0IC0yMjQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDAyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0003.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDAzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC0yMjQgMA0KdiAtMjU2IC0yMjQgMA0KdiAtMjU2IC0xOTIgMA0KdiAtMjI0IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDAzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0004.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDA0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC0xOTIgMA0KdiAtMjU2IC0xOTIgMA0KdiAtMjU2IC0xNjAgMA0KdiAtMjI0IC0xNjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDA0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0005.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDA1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC0xNjAgMA0KdiAtMjU2IC0xNjAgMA0KdiAtMjU2IC0xMjggMA0KdiAtMjI0IC0xMjggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDA1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0006.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDA2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0xMjggMA0KdiAtMzIwIC0xMjggMA0KdiAtMzIwIC05NiAwDQp2IC0yODggLTk2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDAwNg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0007.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDA3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC05NiAwDQp2IC0zMjAgLTk2IDANCnYgLTMyMCAtNjQgMA0KdiAtMjg4IC02NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwMDcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0008.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDA4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0xNjAgMA0KdiAtMzIwIC0xNjAgMA0KdiAtMzIwIC0xMjggMA0KdiAtMjg4IC0xMjggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDA4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0009.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDA5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0xOTIgMA0KdiAtMzIwIC0xOTIgMA0KdiAtMzIwIC0xNjAgMA0KdiAtMjg4IC0xNjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDA5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0010.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDEwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0yMjQgMA0KdiAtMzIwIC0yMjQgMA0KdiAtMzIwIC0xOTIgMA0KdiAtMjg4IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDEwDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0011.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDExLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0yNTYgMA0KdiAtMzIwIC0yNTYgMA0KdiAtMzIwIC0yMjQgMA0KdiAtMjg4IC0yMjQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDExDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0012.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDEyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0yODggMA0KdiAtMzIwIC0yODggMA0KdiAtMzIwIC0yNTYgMA0KdiAtMjg4IC0yNTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDEyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0013.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDEzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjU2IC0zMjAgMA0KdiAtMjg4IC0zMjAgMA0KdiAtMjg4IC0yODggMA0KdiAtMjU2IC0yODggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDEzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0014.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDE0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0zMjAgMA0KdiAtMzIwIC0zMjAgMA0KdiAtMzIwIC0yODggMA0KdiAtMjg4IC0yODggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDE0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0015.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDE1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjg4IC0zNTIgMA0KdiAtMzIwIC0zNTIgMA0KdiAtMzIwIC0zMjAgMA0KdiAtMjg4IC0zMjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDE1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0016.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDE2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC05NiAwDQp2IC0xOTIgLTk2IDANCnYgLTE5MiAtNjQgMA0KdiAtMTYwIC02NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwMTYNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0017.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDE3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0xMjggMA0KdiAtMTkyIC0xMjggMA0KdiAtMTkyIC05NiAwDQp2IC0xNjAgLTk2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDAxNw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0018.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDE4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0xNjAgMA0KdiAtMTkyIC0xNjAgMA0KdiAtMTkyIC0xMjggMA0KdiAtMTYwIC0xMjggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDE4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0019.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDE5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0xOTIgMA0KdiAtMTkyIC0xOTIgMA0KdiAtMTkyIC0xNjAgMA0KdiAtMTYwIC0xNjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDE5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0020.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDIwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0yMjQgMA0KdiAtMTkyIC0yMjQgMA0KdiAtMTkyIC0xOTIgMA0KdiAtMTYwIC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDIwDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0021.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDIxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0yNTYgMA0KdiAtMTkyIC0yNTYgMA0KdiAtMTkyIC0yMjQgMA0KdiAtMTYwIC0yMjQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDIxDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0022.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDIyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0yODggMA0KdiAtMTkyIC0yODggMA0KdiAtMTkyIC0yNTYgMA0KdiAtMTYwIC0yNTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDIyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0023.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDIzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTkyIC0zMjAgMA0KdiAtMjI0IC0zMjAgMA0KdiAtMjI0IC0yODggMA0KdiAtMTkyIC0yODggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDIzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0024.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDI0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0zMjAgMA0KdiAtMTkyIC0zMjAgMA0KdiAtMTkyIC0yODggMA0KdiAtMTYwIC0yODggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDI0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0025.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDI1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTYwIC0zNTIgMA0KdiAtMTkyIC0zNTIgMA0KdiAtMTkyIC0zMjAgMA0KdiAtMTYwIC0zMjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDI1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0026.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDI2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC02NCAwDQp2IC00MTYgLTY0IDANCnYgLTQxNiAtMzIgMA0KdiAtMzg0IC0zMiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwMjYNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0027.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDI3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC05NiAwDQp2IC00MTYgLTk2IDANCnYgLTQxNiAtNjQgMA0KdiAtMzg0IC02NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwMjcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0028.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDI4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDE2IC0xMjggMA0KdiAtNDQ4IC0xMjggMA0KdiAtNDQ4IC05NiAwDQp2IC00MTYgLTk2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDAyOA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0029.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDI5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzUyIC0xMjggMA0KdiAtMzg0IC0xMjggMA0KdiAtMzg0IC05NiAwDQp2IC0zNTIgLTk2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDAyOQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0030.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDMwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0xMjggMA0KdiAtNDE2IC0xMjggMA0KdiAtNDE2IC05NiAwDQp2IC0zODQgLTk2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDAzMA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0031.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDMxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0xNjAgMA0KdiAtNDE2IC0xNjAgMA0KdiAtNDE2IC0xMjggMA0KdiAtMzg0IC0xMjggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDMxDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0032.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDMyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0xOTIgMA0KdiAtNDE2IC0xOTIgMA0KdiAtNDE2IC0xNjAgMA0KdiAtMzg0IC0xNjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDMyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0033.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDMzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0yMjQgMA0KdiAtNDE2IC0yMjQgMA0KdiAtNDE2IC0xOTIgMA0KdiAtMzg0IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDMzDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0034.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDM0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0yNTYgMA0KdiAtNDE2IC0yNTYgMA0KdiAtNDE2IC0yMjQgMA0KdiAtMzg0IC0yMjQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDM0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0035.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDM1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0yODggMA0KdiAtNDE2IC0yODggMA0KdiAtNDE2IC0yNTYgMA0KdiAtMzg0IC0yNTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDM1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0036.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDM2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzUyIC0zMjAgMA0KdiAtMzg0IC0zMjAgMA0KdiAtMzg0IC0yODggMA0KdiAtMzUyIC0yODggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDM2DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0037.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDM3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0zMjAgMA0KdiAtNDE2IC0zMjAgMA0KdiAtNDE2IC0yODggMA0KdiAtMzg0IC0yODggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDM3DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0038.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDM4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0zNTIgMA0KdiAtNDE2IC0zNTIgMA0KdiAtNDE2IC0zMjAgMA0KdiAtMzg0IC0zMjAgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDM4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0039.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDM5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC0zODQgMA0KdiAtNDE2IC0zODQgMA0KdiAtNDE2IC0zNTIgMA0KdiAtMzg0IC0zNTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDM5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0040.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzg0IC00MTYgMA0KdiAtNDE2IC00MTYgMA0KdiAtNDE2IC0zODQgMA0KdiAtMzg0IC0zODQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDQwDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0041.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTY0IDANCnYgLTk2IC02NCAwDQp2IC05NiAtMzIgMA0KdiAtNjQgLTMyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA0MQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0042.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTk2IDANCnYgLTk2IC05NiAwDQp2IC05NiAtNjQgMA0KdiAtNjQgLTY0IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA0Mg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0043.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtOTYgLTEyOCAwDQp2IC0xMjggLTEyOCAwDQp2IC0xMjggLTk2IDANCnYgLTk2IC05NiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNDMNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0044.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQ0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzIgLTEyOCAwDQp2IC02NCAtMTI4IDANCnYgLTY0IC05NiAwDQp2IC0zMiAtOTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDQ0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0045.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQ1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTEyOCAwDQp2IC05NiAtMTI4IDANCnYgLTk2IC05NiAwDQp2IC02NCAtOTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDQ1DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0046.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQ2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTE2MCAwDQp2IC05NiAtMTYwIDANCnYgLTk2IC0xMjggMA0KdiAtNjQgLTEyOCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNDYNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0047.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQ3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTE5MiAwDQp2IC05NiAtMTkyIDANCnYgLTk2IC0xNjAgMA0KdiAtNjQgLTE2MCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNDcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0048.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQ4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTIyNCAwDQp2IC05NiAtMjI0IDANCnYgLTk2IC0xOTIgMA0KdiAtNjQgLTE5MiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNDgNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0049.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDQ5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTI1NiAwDQp2IC05NiAtMjU2IDANCnYgLTk2IC0yMjQgMA0KdiAtNjQgLTIyNCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNDkNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0050.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDUwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTI4OCAwDQp2IC05NiAtMjg4IDANCnYgLTk2IC0yNTYgMA0KdiAtNjQgLTI1NiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNTANCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0051.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDUxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtOTYgLTMyMCAwDQp2IC0xMjggLTMyMCAwDQp2IC0xMjggLTI4OCAwDQp2IC05NiAtMjg4IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA1MQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0052.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDUyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTMyMCAwDQp2IC05NiAtMzIwIDANCnYgLTk2IC0yODggMA0KdiAtNjQgLTI4OCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNTINCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0053.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDUzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTM1MiAwDQp2IC05NiAtMzUyIDANCnYgLTk2IC0zMjAgMA0KdiAtNjQgLTMyMCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNTMNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0054.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDU0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTM4NCAwDQp2IC05NiAtMzg0IDANCnYgLTk2IC0zNTIgMA0KdiAtNjQgLTM1MiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNTQNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0055.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDU1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNjQgLTQxNiAwDQp2IC05NiAtNDE2IDANCnYgLTk2IC0zODQgMA0KdiAtNjQgLTM4NCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAgMA0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMTQyODU3MSAxDQp2dCAwIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNTUNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0056.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDU2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDQ4IC00NDggMA0KdiAtNDgwIC00NDggMA0KdiAtNDgwIC00MTYgMA0KdiAtNDQ4IC00MTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDU2DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0057.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDU3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC00NDggMA0KdiAtMzIgLTQ0OCAwDQp2IC0zMiAtNDE2IDANCnYgMCAtNDE2IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMCAwDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4xNDI4NTcxIDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA1Nw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0058.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDU4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjU2IC00ODAgMA0KdiAtMjg4IC00ODAgMA0KdiAtMjg4IC00NDggMA0KdiAtMjU2IC00NDggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDU4DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0059.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDU5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjU2IC00NDggMA0KdiAtMjg4IC00NDggMA0KdiAtMjg4IC00MTYgMA0KdiAtMjU2IC00MTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDU5DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0060.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDYwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC00NDggMA0KdiAtMjU2IC00NDggMA0KdiAtMjU2IC00MTYgMA0KdiAtMjI0IC00MTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDYwDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0061.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDYxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTkyIC00NDggMA0KdiAtMjI0IC00NDggMA0KdiAtMjI0IC00MTYgMA0KdiAtMTkyIC00MTYgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDYxDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0062.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDYyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTkyIC00ODAgMA0KdiAtMjI0IC00ODAgMA0KdiAtMjI0IC00NDggMA0KdiAtMTkyIC00NDggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwIDANCnZ0IDAuMTQyODU3MSAwDQp2dCAwLjE0Mjg1NzEgMQ0KdnQgMCAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDYyDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0063.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDYzLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC0yMjQgMA0KdiAtMzIgLTIyNCAwDQp2IC0zMiAtMTkyIDANCnYgMCAtMTkyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMjg1NzE0MyAwDQp2dCAwLjI4NTcxNDMgMQ0KdnQgMC4xNDI4NTcxIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNjMNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0064.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDY0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC0yNTYgMA0KdiAtMzIgLTI1NiAwDQp2IC0zMiAtMjI0IDANCnYgMCAtMjI0IDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMjg1NzE0MyAwDQp2dCAwLjI4NTcxNDMgMQ0KdnQgMC4xNDI4NTcxIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNjQNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0065.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDY1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDQ4IC0yMjQgMA0KdiAtNDgwIC0yMjQgMA0KdiAtNDgwIC0xOTIgMA0KdiAtNDQ4IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4yODU3MTQzIDANCnZ0IDAuMjg1NzE0MyAxDQp2dCAwLjE0Mjg1NzEgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA2NQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0066.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDY2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDQ4IC0yNTYgMA0KdiAtNDgwIC0yNTYgMA0KdiAtNDgwIC0yMjQgMA0KdiAtNDQ4IC0yMjQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4yODU3MTQzIDANCnZ0IDAuMjg1NzE0MyAxDQp2dCAwLjE0Mjg1NzEgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA2Ng0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0067.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDY3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC0zODQgMA0KdiAtMzIgLTM4NCAwDQp2IC0zMiAtMzUyIDANCnYgMCAtMzUyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC4xNDI4NTcxIDANCnZ0IDAuMjg1NzE0MyAwDQp2dCAwLjI4NTcxNDMgMQ0KdnQgMC4xNDI4NTcxIDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNjcNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0068.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDY4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDQ4IC0zODQgMA0KdiAtNDgwIC0zODQgMA0KdiAtNDgwIC0zNTIgMA0KdiAtNDQ4IC0zNTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjE0Mjg1NzEgMA0KdnQgMC4yODU3MTQzIDANCnZ0IDAuMjg1NzE0MyAxDQp2dCAwLjE0Mjg1NzEgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA2OA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0069.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDY5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtOTYgLTIyNCAwDQp2IC0xMjggLTIyNCAwDQp2IC0xMjggLTE5MiAwDQp2IC05NiAtMTkyIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC40Mjg1NzE0IDANCnZ0IDAuNTcxNDI4NiAwDQp2dCAwLjU3MTQyODYgMQ0KdnQgMC40Mjg1NzE0IDENCg0KIyBOb3JtYWwNCnZuIDAgMCAtMQ0KDQojIE1lc2ggZGVzY3JpcHRpb24NCmcgVEFOS19tZXNoXzAwNjkNCg0KIyBGYWNlcw0KZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0070.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDcwLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTI4IC0yMjQgMA0KdiAtMTYwIC0yMjQgMA0KdiAtMTYwIC0xOTIgMA0KdiAtMTI4IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjQyODU3MTQgMA0KdnQgMC41NzE0Mjg2IDANCnZ0IDAuNTcxNDI4NiAxDQp2dCAwLjQyODU3MTQgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3MA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0071.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDcxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzIwIC0yMjQgMA0KdiAtMzUyIC0yMjQgMA0KdiAtMzUyIC0xOTIgMA0KdiAtMzIwIC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjQyODU3MTQgMA0KdnQgMC41NzE0Mjg2IDANCnZ0IDAuNTcxNDI4NiAxDQp2dCAwLjQyODU3MTQgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3MQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0072.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDcyLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzUyIC0yMjQgMA0KdiAtMzg0IC0yMjQgMA0KdiAtMzg0IC0xOTIgMA0KdiAtMzUyIC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjQyODU3MTQgMA0KdnQgMC41NzE0Mjg2IDANCnZ0IDAuNTcxNDI4NiAxDQp2dCAwLjQyODU3MTQgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3Mg0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0073.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDczLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzIgLTI1NiAwDQp2IC02NCAtMjU2IDANCnYgLTY0IC0yMjQgMA0KdiAtMzIgLTIyNCAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuMjg1NzE0MyAwDQp2dCAwLjQyODU3MTQgMA0KdnQgMC40Mjg1NzE0IDENCnZ0IDAuMjg1NzE0MyAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDczDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0074.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDc0Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMzIgLTIyNCAwDQp2IC02NCAtMjI0IDANCnYgLTY0IC0xOTIgMA0KdiAtMzIgLTE5MiAwDQoNCiMgVGV4dHVyZSBjb29yaWRpbmF0ZXMgKENvdW50ID0gNCkNCnZ0IDAuMjg1NzE0MyAwDQp2dCAwLjQyODU3MTQgMA0KdnQgMC40Mjg1NzE0IDENCnZ0IDAuMjg1NzE0MyAxDQoNCiMgTm9ybWFsDQp2biAwIDAgLTENCg0KIyBNZXNoIGRlc2NyaXB0aW9uDQpnIFRBTktfbWVzaF8wMDc0DQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKDQo=</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0075.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDc1Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDE2IC0yMjQgMA0KdiAtNDQ4IC0yMjQgMA0KdiAtNDQ4IC0xOTIgMA0KdiAtNDE2IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjI4NTcxNDMgMA0KdnQgMC40Mjg1NzE0IDANCnZ0IDAuNDI4NTcxNCAxDQp2dCAwLjI4NTcxNDMgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3NQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0076.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDc2Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtNDE2IC0yNTYgMA0KdiAtNDQ4IC0yNTYgMA0KdiAtNDQ4IC0yMjQgMA0KdiAtNDE2IC0yMjQgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjI4NTcxNDMgMA0KdnQgMC40Mjg1NzE0IDANCnZ0IDAuNDI4NTcxNCAxDQp2dCAwLjI4NTcxNDMgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3Ng0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0077.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDc3Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMTkyIC0yMjQgMA0KdiAtMjI0IC0yMjQgMA0KdiAtMjI0IC0xOTIgMA0KdiAtMTkyIC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjI4NTcxNDMgMA0KdnQgMC40Mjg1NzE0IDANCnZ0IDAuNDI4NTcxNCAxDQp2dCAwLjI4NTcxNDMgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3Nw0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0078.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDc4Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjU2IC0yMjQgMA0KdiAtMjg4IC0yMjQgMA0KdiAtMjg4IC0xOTIgMA0KdiAtMjU2IC0xOTIgMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjI4NTcxNDMgMA0KdnQgMC40Mjg1NzE0IDANCnZ0IDAuNDI4NTcxNCAxDQp2dCAwLjI4NTcxNDMgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3OA0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportMesh filename="TANK_mesh_0079.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1RBTktfbWVzaF8wMDc5Lm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAtMjI0IC00ODAgMA0KdiAtMjU2IC00ODAgMA0KdiAtMjU2IC00NDggMA0KdiAtMjI0IC00NDggMA0KDQojIFRleHR1cmUgY29vcmlkaW5hdGVzIChDb3VudCA9IDQpDQp2dCAwLjcxNDI4NTcgMA0KdnQgMC44NTcxNDI5IDANCnZ0IDAuODU3MTQyOSAxDQp2dCAwLjcxNDI4NTcgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBUQU5LX21lc2hfMDA3OQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCg0K</ImportMesh>
+  <ImportTexture filename="坦克大战vc游戏源码-坦克大战的游戏-瓷砖_爱给网_aigei_com.bmp">Qk02IAAAAAAAADYEAAAoAAAA4AAAACAAAAABAAgAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAICAAIAAAACAAIAAgIAAAMDAwADA3MAA8MqmAAQEBAAICAgADAwMABEREQAWFhYAHBwcACIiIgApKSkAVVVVAE1NTQBCQkIAOTk5AIB8/wBQUP8AkwDWAP/szADG1u8A1ufnAJCprQAAADMAAABmAAAAmQAAAMwAADMAAAAzMwAAM2YAADOZAAAzzAAAM/8AAGYAAABmMwAAZmYAAGaZAABmzAAAZv8AAJkAAACZMwAAmWYAAJmZAACZzAAAmf8AAMwAAADMMwAAzGYAAMyZAADMzAAAzP8AAP9mAAD/mQAA/8wAMwAAADMAMwAzAGYAMwCZADMAzAAzAP8AMzMAADMzMwAzM2YAMzOZADMzzAAzM/8AM2YAADNmMwAzZmYAM2aZADNmzAAzZv8AM5kAADOZMwAzmWYAM5mZADOZzAAzmf8AM8wAADPMMwAzzGYAM8yZADPMzAAzzP8AM/8zADP/ZgAz/5kAM//MADP//wBmAAAAZgAzAGYAZgBmAJkAZgDMAGYA/wBmMwAAZjMzAGYzZgBmM5kAZjPMAGYz/wBmZgAAZmYzAGZmZgBmZpkAZmbMAGaZAABmmTMAZplmAGaZmQBmmcwAZpn/AGbMAABmzDMAZsyZAGbMzABmzP8AZv8AAGb/MwBm/5kAZv/MAMwA/wD/AMwAmZkAAJkzmQCZAJkAmQDMAJkAAACZMzMAmQBmAJkzzACZAP8AmWYAAJlmMwCZM2YAmWaZAJlmzACZM/8AmZkzAJmZZgCZmZkAmZnMAJmZ/wCZzAAAmcwzAGbMZgCZzJkAmczMAJnM/wCZ/wAAmf8zAJnMZgCZ/5kAmf/MAJn//wDMAAAAmQAzAMwAZgDMAJkAzADMAJkzAADMMzMAzDNmAMwzmQDMM8wAzDP/AMxmAADMZjMAmWZmAMxmmQDMZswAmWb/AMyZAADMmTMAzJlmAMyZmQDMmcwAzJn/AMzMAADMzDMAzMxmAMzMmQDMzMwAzMz/AMz/AADM/zMAmf9mAMz/mQDM/8wAzP//AMwAMwD/AGYA/wCZAMwzAAD/MzMA/zNmAP8zmQD/M8wA/zP/AP9mAAD/ZjMAzGZmAP9mmQD/ZswAzGb/AP+ZAAD/mTMA/5lmAP+ZmQD/mcwA/5n/AP/MAAD/zDMA/8xmAP/MmQD/zMwA/8z/AP//MwDM/2YA//+ZAP//zABmZv8AZv9mAGb//wD/ZmYA/2b/AP//ZgAhAKUAX19fAHd3dwCGhoYAlpaWAMvLywCysrIA19fXAN3d3QDj4+MA6urqAPHx8QD4+PgA8Pv/AKSgoACAgIAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////APj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4Bwf4+Pj4+Pj4+Pj4+Pj4+AcH+Pj4+Pj4+Pj4+Pj4+PgKCjs7OzsCAjs7Ozs7OwoKCgo7Ozs7AgI7Ozs7OzsKCs3Nzc3+/s3Nzc3Nzf7+zc3Nzc3N/v7Nzc3Nzc3+/s3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc0KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCisrCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PgHB/j4+Pj4+Pj4+Pj4+Pj4Bwf4+Pj4+Pj4+Pj4+Pj4+AoKOzs7OwICOzs7Ozs7CgoKCjs7OzsCAjs7Ozs7OwoKzc3Nzf7+zc3Nzc3N/v7Nzc3Nzc3+/s3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3NzQoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKKysKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr4+B8fKysrKysrKysrKysr+PgfHysrKysrKysrKysrKwcHBwf4+Pj4+Pj4+Pj4+PgHBwcH+Pj4+Pj4+Pj4+Pj4Ozs7Ozs7Ozs7OwICOzs7Ozs7Ozs7Ozs7OzsCAjs7OzvNzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3N/v7Nzc3Nzc3Nzc3N/v7Nzf7+zc3Nzc3NCgoKCgoKCgr4+Pj4Cgr4+Pj4Cgr4+Pj4CgoKCgoKCgorKwoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCvj4Hx8rKysrKysrKysrKyv4+B8fKysrKysrKysrKysrBwcHB/j4+Pj4+Pj4+Pj4+AcHBwf4+Pj4+Pj4+Pj4+Pg7Ozs7Ozs7Ozs7AgI7Ozs7Ozs7Ozs7Ozs7OwICOzs7O83N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3+/s3N/v7Nzc3Nzc0KCgoKCgoKCvj4+PgKCvj4+PgKCvj4+PgKCgoKCgoKCisrCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK+PgfHysrKysrKysrKysrK/j4Hx8rKysrKysrKysrKysHBwcH8vLy8vLy8vL4+Pj4BwcHB/Ly8vLy8vLy+Pj4+CcnAgInJzs7Ozs7Ozs7OzsnJwICJyc7Ozs7Ozs7Ozs7zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3NzQoKCgoKCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+AoKCgoKCgoKKysKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr4+B8fKysrKysrKysrKysr+PgfHysrKysrKysrKysrKwcHBwfy8vLy8vLy8vj4+PgHBwcH8vLy8vLy8vL4+Pj4JycCAicnOzs7Ozs7Ozs7OycnAgInJzs7Ozs7Ozs7OzvNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3NCgoKCgoKCgr4+Pj4+Pj4+Pj4+Pj4+Pj4CgoKCgoKCgorKwoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCvj4Hx8fHx8fHx8fHx8fHx/4+B8fHx8fHx8fHx8fHx8fBwcHB/Ly8vLy8vLy+Pj4+AcHBwfy8vLy8vLy8vj4+PgnJycnOzsCAjs7Ozs7OwICJycnJzs7AgI7Ozs7OzsCAs3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3+/s3N/v7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v4KCgoKCgoKCgoKCgr4+Pj4+Pj4+AoKCgoKCgoKCgoKCisrCgoKCgoKCgoKCgr4+AoKCgoKCgoKCgoK+PgKCgoK+PgfHx8fHx8fHx8fHx8fH/j4Hx8fHx8fHx8fHx8fHx8HBwcH8vLy8vLy8vL4+Pj4BwcHB/Ly8vLy8vLy+Pj4+CcnJyc7OwICOzs7Ozs7AgInJycnOzsCAjs7Ozs7OwICzc3Nzc3N/v7Nzf7+zc3Nzc3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/goKCgoKCgoKCgoKCvj4+Pj4+Pj4CgoKCgoKCgoKCgoKKysKCgoKCgoKCgoKCvj4CgoKCgoKCgoKCgr4+AoKCgr4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+AcHBwfy8vLy8vLy8vj4+PgHBwcH8vLy8vLy8vL4+Pj4AgInJycnOzs7OwICJyc7OwICJycnJzs7OzsCAicnOzvNzf7+zc3Nzf7+zc3Nzc3Nzc3+/s3Nzc3+/s3Nzc3Nzc3Nzc3Nzf7+zc3Nzf7+zc3Nzc3Nzc3+/s3Nzc3+/s3NCgoKCgoKCgoKCgoKCgr4+Pj4CgoKCgoKCgoKCgoKCgorKwoKCgoKCgr4+Pj4+PgKCgoKCgoKCgoKCvj4CgoKCvj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4BwcHB/Ly8vLy8vLy+Pj4+AcHBwfy8vLy8vLy8vj4+PgCAicnJyc7Ozs7AgInJzs7AgInJycnOzs7OwICJyc7O83N/v7Nzc3N/v7Nzc3Nzc3Nzf7+zc3Nzf7+zc3Nzc3Nzc3Nzc3N/v7Nzc3N/v7Nzc3Nzc3Nzf7+zc3Nzf7+zc0KCgoKCgoKCgoKCgoKCvj4+PgKCgoKCgoKCgoKCgoKCisrCgoKCgoKCvj4+Pj4+AoKCgoKCgoKCgoK+PgKCgoKKysrKysrKyv4+B8fKysrKysrKysrKysr+PgfHysrKysHBwcH8vLy8vLy8vL4+Pj4BwcHB/Ly8vLy8vLy+Pj4+CcnJycnJycnJyc7Ozs7OzsnJycnJycnJycnOzs7Ozs7/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3NzQoKCgoKCvj4+Pj4+AoK+Pj4+AoK+Pj4+Pj4CgoKCgoKKysKCvj4+Pj4+Pj4+Pj4+PgKCgoK+PgKCgr4+Pj4CgorKysrKysrK/j4Hx8rKysrKysrKysrKyv4+B8fKysrKwcHBwfy8vLy8vLy8vj4+PgHBwcH8vLy8vLy8vL4+Pj4JycnJycnJycnJzs7Ozs7OycnJycnJycnJyc7Ozs7Ozv+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3NCgoKCgoK+Pj4+Pj4Cgr4+Pj4Cgr4+Pj4+PgKCgoKCgorKwoK+Pj4+Pj4+Pj4+Pj4+AoKCgr4+AoKCvj4+PgKCisrKysrKysr+PgfHysrKysrKysrKysrK/j4Hx8rKysrBwcHBwcHBwcHBwcHBwf4+AcHBwcHBwcHBwcHBwcH+PgnJycnAgI7OycnOzsnJzs7JycnJwICOzsnJzs7Jyc7O83Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc0KCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4CgoKCisrCgoKCvj4+Pj4+Pj4+Pj4+Pj4+Pj4CgoK+Pj4+AoKKysrKysrKyv4+B8fKysrKysrKysrKysr+PgfHysrKysHBwcHBwcHBwcHBwcHB/j4BwcHBwcHBwcHBwcHBwf4+CcnJycCAjs7Jyc7OycnOzsnJycnAgI7OycnOzsnJzs7zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3NzQoKCgr4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PgKCgoKKysKCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+PgKCgr4+Pj4CgofHx8fHx8fH/j4Hx8fHx8fHx8fHx8fHx/4+B8fHx8fHwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHCgonJycnJycCAicnOzsKCgoKJycnJycnAgInJzs7CgrNzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+CgoKCvj4+Pj4+Pj4Hx/4+Pj4Hx/4+Pj4+Pj4+AoKCgorKysrCgr4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4CgoKCh8fHx8fHx8f+PgfHx8fHx8fHx8fHx8fH/j4Hx8fHx8fBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcKCicnJycnJwICJyc7OwoKCgonJycnJycCAicnOzsKCs3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v4KCgoK+Pj4+Pj4+PgfH/j4+PgfH/j4+Pj4+Pj4CgoKCisrKysKCvj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PgKCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PgHB/j4+Pj4+Pj4+Pj4+Pj4Bwf4+Pj4+Pj4+Pj4+Pj4+AoKOzs7OwICOzs7Ozs7CgoKCjs7OzsCAjs7Ozs7OwoKzc3Nzf7+zc3Nzc3N/v7Nzc3Nzc3+/s3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3NzQoK+Pj4+Pj4Hx/4+Pj4+Pj4+Pj4+PgfH/j4+Pj4+AoKCgorKwoK+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+AoKCgr4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+AcH+Pj4+Pj4+Pj4+Pj4+PgHB/j4+Pj4+Pj4+Pj4+Pj4Cgo7Ozs7AgI7Ozs7OzsKCgoKOzs7OwICOzs7Ozs7CgrNzc3N/v7Nzc3Nzc3+/s3Nzc3Nzf7+zc3Nzc3N/v7Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3NCgr4+Pj4+PgfH/j4+Pj4+Pj4+Pj4+B8f+Pj4+Pj4CgoKCisrCgr4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4CgoKCvj4Hx8rKysrKysrKysrKyv4+B8fKysrKysrKysrKysrBwcHB/j4+Pj4+Pj4+Pj4+AcHBwf4+Pj4+Pj4+Pj4+Pg7Ozs7Ozs7Ozs7AgI7Ozs7Ozs7Ozs7Ozs7OwICOzs7O83N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3+/s3N/v7Nzc3Nzc0KCgoK+PgfH/j4+Pj4+Pj4+Pj4+Pj4+PgfH/j4CgoKCgoKKysrKwoKCvj4+Pj4+Pj4+Pj4+Pj4+Pj4CgoKCgoK+PgfHysrKysrKysrKysrK/j4Hx8rKysrKysrKysrKysHBwcH+Pj4+Pj4+Pj4+Pj4BwcHB/j4+Pj4+Pj4+Pj4+Ds7Ozs7Ozs7OzsCAjs7Ozs7Ozs7Ozs7Ozs7AgI7Ozs7zc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzc3N/v7Nzf7+zc3Nzc3Nzc3Nzf7+zc3+/s3Nzc3NzQoKCgr4+B8f+Pj4+Pj4+Pj4+Pj4+Pj4+B8f+PgKCgoKCgorKysrCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+PgKCgoKCgr4+B8fKysrKysrKysrKysr+PgfHysrKysrKysrKysrKwcHBwfy8vLy8vLy8vj4+PgHBwcH8vLy8vLy8vL4+Pj4JycCAicnOzs7Ozs7Ozs7OycnAgInJzs7Ozs7Ozs7OzvNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3N+Pj4+Pj4+Pj4+Pj4Cgr4+Pj4Cgr4+Pj4+Pj4+Pj4+PgKCgoKKysKCgr4+Pj4+Pj4+Pj4CgoKCgoKCgoKCgoKCvj4Hx8rKysrKysrKysrKyv4+B8fKysrKysrKysrKysrBwcHB/Ly8vLy8vLy+Pj4+AcHBwfy8vLy8vLy8vj4+PgnJwICJyc7Ozs7Ozs7Ozs7JycCAicnOzs7Ozs7Ozs7O83Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc34+Pj4+Pj4+Pj4+PgKCvj4+PgKCvj4+Pj4+Pj4+Pj4+AoKCgorKwoKCvj4+Pj4+Pj4+PgKCgoKCgoKCgoKCgoK+PgfHx8fHx8fHx8fHx8fH/j4Hx8fHx8fHx8fHx8fHx8HBwcH8vLy8vLy8vL4+Pj4BwcHB/Ly8vLy8vLy+Pj4+CcnJyc7OwICOzs7Ozs7AgInJycnOzsCAjs7Ozs7OwICzc3Nzc3N/v7Nzf7+zc3Nzc3Nzc3Nzf7+zc3+/s3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/goK+Pj4+Pj4CgoKCgoK+Pj4+AoKCgoKCvj4+Pj4+AoKCgoKCgoKKysrCgr4+Pj4+PgKCgoKCgoKCgoKCgoKCgr4+B8fHx8fHx8fHx8fHx8f+PgfHx8fHx8fHx8fHx8fHwcHBwfy8vLy8vLy8vj4+PgHBwcH8vLy8vLy8vL4+Pj4JycnJzs7AgI7Ozs7OzsCAicnJyc7OwICOzs7Ozs7AgLNzc3Nzc3+/s3N/v7Nzc3Nzc3Nzc3N/v7Nzf7+zc3Nzc3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+Cgr4+Pj4+PgKCgoKCgr4+Pj4CgoKCgoK+Pj4+Pj4CgoKCgoKCgorKysKCvj4+Pj4+AoKCgoKCgoKCgoKCgoKCvj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4BwcHB/Ly8vLy8vLy+Pj4+AcHBwfy8vLy8vLy8vj4+PgCAicnJyc7Ozs7AgInJzs7AgInJycnOzs7OwICJyc7O83N/v7Nzc3N/v7Nzc3Nzc3Nzf7+zc3Nzf7+zc3Nzc3Nzc3Nzc3N/v7Nzc3N/v7Nzc3Nzc3Nzf7+zc3Nzf7+zc34+Pj4+Pj4+AoKCgoKCvj4Hx/4+AoKCgr4+Pj4+Pj4+AoKCgoKCisrKysrCgr4+AoKCgoKCgoKCgoKCgoKCgoK+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PgHBwcH8vLy8vLy8vL4+Pj4BwcHB/Ly8vLy8vLy+Pj4+AICJycnJzs7OzsCAicnOzsCAicnJyc7Ozs7AgInJzs7zc3+/s3Nzc3+/s3Nzc3Nzc3N/v7Nzc3N/v7Nzc3Nzc3Nzc3Nzc3+/s3Nzc3+/s3Nzc3Nzc3N/v7Nzc3N/v7Nzfj4+Pj4+Pj4CgoKCgoK+PgfH/j4CgoKCvj4+Pj4+Pj4CgoKCgoKKysrKysKCvj4CgoKCgoKCgoKCgoKCgoKCgorKysrKysrK/j4Hx8rKysrKysrKysrKyv4+B8fKysrKwcHBwfy8vLy8vLy8vj4+PgHBwcH8vLy8vLy8vL4+Pj4JycnJycnJycnJzs7Ozs7OycnJycnJycnJyc7Ozs7Ozv+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3NCgr4+Pj4CgoKCgoK+Pj4+Pj4CgoKCgoKCgr4+Pj4CgoKCgoKCgoKCgorKwoKCgoKCgoKCgoKCgoKCgoKCgoKCisrKysrKysr+PgfHysrKysrKysrKysrK/j4Hx8rKysrBwcHB/Ly8vLy8vLy+Pj4+AcHBwfy8vLy8vLy8vj4+PgnJycnJycnJycnOzs7Ozs7JycnJycnJycnJzs7Ozs7O/7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc0KCvj4+PgKCgoKCgr4+Pj4+PgKCgoKCgoKCvj4+PgKCgoKCgoKCgoKCisrCgoKCgoKCgoKCgoKCgoKCgoKCgoKKysrKysrKyv4+B8fKysrKysrKysrKysr+PgfHysrKysHBwcHBwcHBwcHBwcHB/j4BwcHBwcHBwcHBwcHBwf4+CcnJycCAjs7Jyc7OycnOzsnJycnAgI7OycnOzsnJzs7zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzfj4+PgKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr4+Pj4CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgorKysrKysrK/j4Hx8rKysrKysrKysrKyv4+B8fKysrKwcHBwcHBwcHBwcHBwcH+PgHBwcHBwcHBwcHBwcHB/j4JycnJwICOzsnJzs7Jyc7OycnJycCAjs7Jyc7OycnOzvNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3N+Pj4+AoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCvj4+PgKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCh8fHx8fHx8f+PgfHx8fHx8fHx8fHx8fH/j4Hx8fHx8fBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcKCicnJycnJwICJyc7OwoKCgonJycnJycCAicnOzsKCs3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v7Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3N/v4KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKHx8fHx8fHx/4+B8fHx8fHx8fHx8fHx8f+PgfHx8fHx8HBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwoKJycnJycnAgInJzs7CgoKCicnJycnJwICJyc7OwoKzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/s3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf7+zc3Nzc3Nzc3Nzc3Nzc3+/goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</ImportTexture>
+</Tiled2Unity>
