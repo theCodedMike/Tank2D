@@ -6,6 +6,9 @@ TagManager:
   tags:
   - bullet
   - Player2
+  - brick
+  - wall
+  - basement
   layers:
   - Default
   - TransparentFX

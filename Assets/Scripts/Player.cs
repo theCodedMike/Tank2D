@@ -2,13 +2,32 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Player2 : MonoBehaviour
+public enum Direction
 {
+    Up,
+    Down,
+    Left,
+    Right
+}
+
+public class Player : MonoBehaviour
+{
+    [Header("向上")]
+    public KeyCode up;
+    [Header("向下")]
+    public KeyCode down;
+    [Header("向左")]
+    public KeyCode left;
+    [Header("向右")]
+    public KeyCode right;
+    [Header("开火")]
+    public KeyCode fire;
+
     [Header("移动方向")] public Direction dir;
-    [Header("Player2移动速度")] public float moveSpeed;
+    [Header("移动速度")] public float moveSpeed;
     [Header("子弹速度")] public float bulletSpeed;
     [Header("子弹")] public GameObject bulletPrefab;
-    [Header("生命值")] public Text life2;
+    [Header("生命值")] public Text life1;
     [Header("射击点")] public Transform shootPoint;
 
     private Animator _anim;
@@ -22,7 +41,7 @@ public class Player2 : MonoBehaviour
     private void Update()
     {
         // 向上
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKey(up))
         {
             switch (dir)
             {
@@ -35,7 +54,7 @@ public class Player2 : MonoBehaviour
             dir = Direction.Up;
         }
         // 向下
-        else if (Input.GetKey(KeyCode.DownArrow))
+        else if (Input.GetKey(down))
         {
             switch (dir)
             {
@@ -48,7 +67,7 @@ public class Player2 : MonoBehaviour
             dir = Direction.Down;
         }
         // 向左
-        else if (Input.GetKey(KeyCode.LeftArrow))
+        else if (Input.GetKey(left))
         {
             switch (dir)
             {
@@ -61,7 +80,7 @@ public class Player2 : MonoBehaviour
             dir = Direction.Left;
         }
         // 向右
-        else if (Input.GetKey(KeyCode.RightArrow))
+        else if (Input.GetKey(right))
         {
             switch (dir)
             {
@@ -74,7 +93,7 @@ public class Player2 : MonoBehaviour
             dir = Direction.Right;
         }
 
-        if (Input.GetKeyDown(KeyCode.Keypad1))
+        if (Input.GetKeyDown(fire))
         {
             Fire();
         }
@@ -98,6 +117,7 @@ public class Player2 : MonoBehaviour
     {
         GameObject bulletObj = Instantiate(bulletPrefab, shootPoint.position, Quaternion.identity);
         bulletObj.GetComponent<Rigidbody2D>().linearVelocity = bulletSpeed * GetVelocityDirection();
+
     }
 
     private Vector2 GetVelocityDirection() => dir switch
@@ -117,7 +137,7 @@ public class Player2 : MonoBehaviour
             _anim.Play("explode");
             Destroy(gameObject, 0.25f);
             Destroy(other.gameObject);
-            life2.text = "0";
+            life1.text = "0";
         }
     }
 }
