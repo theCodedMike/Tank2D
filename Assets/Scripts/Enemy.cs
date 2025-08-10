@@ -152,6 +152,7 @@ public class Enemy : MonoBehaviour
                         Instantiate(props[0], transform.position, Quaternion.identity);
                     }
                     _animator.Play("explode");
+                    SpawnEnemy.Total--;
                     Destroy(gameObject, 0.25f);
                 }
             }

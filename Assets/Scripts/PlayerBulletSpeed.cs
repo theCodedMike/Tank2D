@@ -17,6 +17,7 @@ public class PlayerBulletSpeed : MonoBehaviour
         {
             // 改变子弹速度 Order in Layer要在同一层
             other.transform.GetComponent<Player>().bulletSpeed = speed;
+            Destroy(gameObject);
         }
     }
 }

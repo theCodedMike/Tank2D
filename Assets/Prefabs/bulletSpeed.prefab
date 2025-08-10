@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4987404507569026}
   - component: {fileID: 212801073422020582}
   - component: {fileID: 61232601102117180}
+  - component: {fileID: 3114842347579477925}
   m_Layer: 0
   m_Name: BulletSpeed
   m_TagString: Untagged
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 200
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300008, guid: e0ec3aea666bfe54e893a0ca349736b5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -134,3 +135,16 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.3, y: 0.28}
   m_EdgeRadius: 0
+--- !u!114 &3114842347579477925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589934376286416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a8e5e69ab10d34dbcc205e66035700, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1.5
