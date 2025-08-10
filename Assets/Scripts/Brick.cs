@@ -8,13 +8,9 @@ public class Brick : MonoBehaviour
     {
         if (other.transform.CompareTag("bullet"))
         {
-            if (_shoot == 2)
-            {
-                Destroy(transform.parent.gameObject);
-                return;
-            }
-
             _shoot++;
+            if (_shoot == 2)
+                Destroy(transform.parent.gameObject);
         }
     }
 }

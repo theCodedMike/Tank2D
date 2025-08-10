@@ -1,47 +1,65 @@
 using System;
 using UnityEngine;
-using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
-public enum Direction
+public class Enemy : MonoBehaviour
 {
-    Up,
-    Down,
-    Left,
-    Right
-}
+    [Header("巡逻时间")]
+    public float patrolTime;
+    [Header("巡逻间隔")]
+    public float patrolCd;
+    [Header("攻击时间")]
+    public float attackTime;
+    [Header("攻击间隔")]
+    public float attackCd;
+    [Header("移动速度")]
+    public float moveSpeed;
+    [Header("子弹速度")]
+    public float bulletSpeed;
+    [Header("生命")]
+    public int life;
+    [Header("是否红色")]
+    public bool isRed;
+    [Header("道具")]
+    public GameObject[] props;
+    [Header("方向")]
+    public Direction dir = Direction.Up;
+    [Header("子弹")]
+    public GameObject bulletPrefab;
+    [Header("射击点")]
+    public Transform shootPoint;
 
-public class Player : MonoBehaviour
-{
-    [Header("向上")]
-    public KeyCode up;
-    [Header("向下")]
-    public KeyCode down;
-    [Header("向左")]
-    public KeyCode left;
-    [Header("向右")]
-    public KeyCode right;
-    [Header("开火")]
-    public KeyCode fire;
-
-    [Header("移动方向")] public Direction dir;
-    [Header("移动速度")] public float moveSpeed;
-    [Header("子弹速度")] public float bulletSpeed;
-    [Header("子弹")] public GameObject bulletPrefab;
-    [Header("生命值")] public Text life1;
-    [Header("射击点")] public Transform shootPoint;
-
-    private Animator _anim;
-
+    private Animator _animator;
+    private Rigidbody2D _rb;
 
     private void Start()
     {
-        _anim = GetComponent<Animator>();
+        _animator = GetComponent<Animator>();
+        _rb = GetComponent<Rigidbody2D>();
     }
 
     private void Update()
     {
+        patrolTime += Time.deltaTime;
+        attackTime += Time.deltaTime;
+        if (patrolTime >= patrolCd)
+        {
+            patrolTime = 0;
+            Move();
+        }
+
+        if (attackTime >= attackCd)
+        {
+            attackTime = 0;
+            Fire();
+        }
+    }
+
+    private void Move()
+    {
+        int randomNum = Random.Range(0, 4);
         // 向上
-        if (Input.GetKey(up))
+        if (randomNum == 0)
         {
             switch (dir)
             {
@@ -50,11 +68,11 @@ public class Player : MonoBehaviour
                 case Direction.Right: RotatePlayerZ(90); break;
             }
 
-            PlayerMove(0, 0.01f);
+            EnemyMove(Vector2.up);
             dir = Direction.Up;
         }
         // 向下
-        else if (Input.GetKey(down))
+        else if (randomNum == 1)
         {
             switch (dir)
             {
@@ -63,11 +81,11 @@ public class Player : MonoBehaviour
                 case Direction.Right: RotatePlayerZ(270); break;
             }
 
-            PlayerMove(0, -0.01f);
+            EnemyMove(Vector2.down);
             dir = Direction.Down;
         }
         // 向左
-        else if (Input.GetKey(left))
+        else if (randomNum == 2)
         {
             switch (dir)
             {
@@ -76,11 +94,11 @@ public class Player : MonoBehaviour
                 case Direction.Right: RotatePlayerZ(180); break;
             }
 
-            PlayerMove(-0.01f, 0);
+            EnemyMove(Vector2.left);
             dir = Direction.Left;
         }
         // 向右
-        else if (Input.GetKey(right))
+        else if (randomNum == 3)
         {
             switch (dir)
             {
@@ -89,30 +107,21 @@ public class Player : MonoBehaviour
                 case Direction.Left: RotatePlayerZ(180); break;
             }
 
-            PlayerMove(0.01f, 0);
+            EnemyMove(Vector2.right);
             dir = Direction.Right;
-        }
-
-        if (Input.GetKeyDown(fire))
-        {
-            Fire();
         }
     }
 
+    private void EnemyMove(Vector2 speedDir)
+    {
+        _rb.linearVelocity = speedDir * (moveSpeed * Time.deltaTime);
+    }
     // 绕Z轴旋转
     private void RotatePlayerZ(float angle)
     {
         transform.Rotate(0, 0, angle);
     }
-
-    // 移动
-    private void PlayerMove(float x, float y)
-    {
-        Vector3 currPos = transform.position;
-        currPos += new Vector3(x, y, 0) * moveSpeed;
-        transform.position = currPos;
-    }
-
+    
     private void Fire()
     {
         GameObject bulletObj = Instantiate(bulletPrefab, shootPoint.position, Quaternion.identity);
@@ -133,10 +142,21 @@ public class Player : MonoBehaviour
     {
         if (other.transform.CompareTag("bullet"))
         {
-            _anim.Play("explode");
-            Destroy(gameObject, 0.25f);
+            if (other.gameObject.name.StartsWith("Player"))
+            {
+                life--;
+                if (life == 0)
+                {
+                    if (isRed)
+                    {
+                        Instantiate(props[0], transform.position, Quaternion.identity);
+                    }
+                    _animator.Play("explode");
+                    Destroy(gameObject, 0.25f);
+                }
+            }
+            
             Destroy(other.gameObject);
-            life1.text = "0";
         }
     }
 }
