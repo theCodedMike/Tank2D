@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 50302620915542400}
   - component: {fileID: 61819291931253386}
   - component: {fileID: 95372573905119016}
+  - component: {fileID: -6658082593328539319}
   m_Layer: 12
   m_Name: RedEnemy3
   m_TagString: Untagged
@@ -217,3 +218,28 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-6658082593328539319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1677963362019216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0030287b7b3aef44da38d5beec65788d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  patrolTime: 0
+  patrolCd: 2
+  attackTime: 0
+  attackCd: 1
+  moveSpeed: 20
+  bulletSpeed: 1.2
+  life: 4
+  isRed: 1
+  props:
+  - {fileID: 1589934376286416, guid: a49d63badc11cfd4aa6cbc9e561b0930, type: 3}
+  dir: 0
+  bulletPrefab: {fileID: 1674473246371666, guid: 78cdc7e8dc3f4fc4287f654dec39ddb6, type: 3}
+  shootPoint: {fileID: 4315342192637686}
